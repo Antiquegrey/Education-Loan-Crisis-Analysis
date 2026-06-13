@@ -1,0 +1,21 @@
+# Python Virtual Environment
+venv/
+
+# System and IDE Files
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Notebook files (excluding from final repository)
+Untitled.ipynb
+practice_interview_prep.ipynb
+
+# Documentation & large PDFs
+*.pdf
+*.docx
+*.zip
+*.tar.gz
+
+# Heavy raw data archives
+dataset/archive (1)/
